@@ -8,6 +8,7 @@ namespace MeineApp
         {
             int a = 4;
             int b = 5;
+            Console.WriteLine("Dinge sind passiert:");
             Console.WriteLine(AddiereZahlen(a, b).ToString());
             Console.ReadLine();
         }
